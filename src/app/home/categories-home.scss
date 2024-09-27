@@ -1,0 +1,22 @@
+.category-main {
+    li {
+        color: #a09b9b;
+        width: 100%;
+        border-bottom: 2px solid #a09b9b;
+        text-align: center;
+        padding-bottom: 15px;
+
+        &:hover {
+            color: red;
+            cursor: pointer;
+            border-bottom: 2px solid red;
+        }
+    }
+
+
+
+    .li-select {
+        color: red;
+        border-bottom: 2px solid red;
+    }
+}

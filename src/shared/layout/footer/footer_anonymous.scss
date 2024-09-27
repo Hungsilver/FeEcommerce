@@ -1,0 +1,17 @@
+.footer {
+    div {
+        flex: 1;
+    }
+
+    h2 {
+        margin-bottom: 10px;
+    }
+
+    ul {
+        li:hover {
+            a {
+                color: red;
+            }
+        }
+    }
+}

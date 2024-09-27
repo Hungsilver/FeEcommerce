@@ -1,0 +1,1401 @@
+{
+    "bff_meta": null,
+    "error": null,
+    "error_msg": null,
+    "data": {
+        "item": {
+            "item_id": 24523888293,
+            "shop_id": 66052563,
+            "item_status": "normal",
+            "status": 1,
+            "item_type": 0,
+            "reference_item_id": "",
+            "title": "Áo thun nam cao cấp cho nam và nữ",
+            "image": "vn-11134207-7r98o-lu62qv5hx9gf63",
+            "label_ids": [
+                1000742,
+                1002603,
+                298463381,
+                700395088,
+                700405055,
+                700405063,
+                700000280,
+                1400000235,
+                822059849520140,
+                829011927936514,
+                1119699,
+                298413316,
+                844931064601283,
+                844931086908638,
+                1717997980,
+                1583608
+            ],
+            "is_adult": false,
+            "is_preview": false,
+            "flag": 196608,
+            "is_service_by_shopee": false,
+            "condition": 1,
+            "cat_id": 100011,
+            "has_low_fulfillment_rate": false,
+            "is_live_streaming_price": null,
+            "currency": "VND",
+            "brand": null,
+            "brand_id": 0,
+            "show_discount": 0,
+            "ctime": 1712977563,
+            "item_rating": {
+                "rating_star": 0
+            },
+            "cb_option": 0,
+            "has_model_with_available_shopee_stock": false,
+            "shop_location": "Hà Nội",
+            "attributes": [
+                {
+                    "name": "Phong cách",
+                    "value": "Thể thao, Hàn Quốc",
+                    "id": 100169,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 1497,
+                    "url": null
+                },
+                {
+                    "name": "Chiều dài áo",
+                    "value": "Dài",
+                    "id": 100170,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 1503,
+                    "url": null
+                },
+                {
+                    "name": "Xuất xứ",
+                    "value": "Trung Quốc",
+                    "id": 100037,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 35,
+                    "url": null
+                },
+                {
+                    "name": "Chiều dài tay áo",
+                    "value": "Dài tay",
+                    "id": 100168,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 1480,
+                    "url": null
+                },
+                {
+                    "name": "Dáng kiểu áo",
+                    "value": "Cơ bắp",
+                    "id": 100179,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 1569,
+                    "url": null
+                },
+                {
+                    "name": "Chất liệu",
+                    "value": "Cotton, Lông vũ, Nỉ, Nỉ mỏng, Nylon",
+                    "id": 100134,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 1149,
+                    "url": null
+                },
+                {
+                    "name": "Mẫu",
+                    "value": "In, vỏ cây",
+                    "id": 100162,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 1486,
+                    "url": null
+                },
+                {
+                    "name": "Mùa",
+                    "value": "Mùa hè",
+                    "id": 100163,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 1462,
+                    "url": null
+                },
+                {
+                    "name": "Cổ áo",
+                    "value": "Cổ vuông",
+                    "id": 100154,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 0,
+                    "url": null
+                }
+            ],
+            "rich_text_description": null,
+            "invoice_option": null,
+            "is_category_failed": null,
+            "is_prescription_item": false,
+            "preview_info": null,
+            "show_prescription_feed": false,
+            "is_alcohol_product": false,
+            "is_infant_milk_formula_product": false,
+            "is_unavailable": false,
+            "is_partial_fulfilled": false,
+            "is_presale": false,
+            "is_presale_deposit_item": null,
+            "is_presale_deposit_made": null,
+            "description": "sản phẩm cực kì đẹp và chính chu hãy mua ngay kẻo hết hàng.\nChúng tôi mong muốn được tiếp cận khách hàng nhiều hơn",
+            "categories": [
+                {
+                    "catid": 100011,
+                    "display_name": "Thời Trang Nam",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 100054,
+                    "display_name": "Áo",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 100244,
+                    "display_name": "Áo thun",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "fe_categories": [
+                {
+                    "catid": 11035567,
+                    "display_name": "Thời Trang Nam",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11035592,
+                    "display_name": "Áo",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11035595,
+                    "display_name": "Áo Thun",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "item_has_video": false,
+            "presale_dday_start_time": null,
+            "is_lowest_price_at_shopee": false,
+            "models": [
+                {
+                    "item_id": 24523888293,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "xanh,S",
+                    "promotion_id": 0,
+                    "price": 3400000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 0,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 0,
+                    "extinfo": {
+                        "tier_index": [
+                            0,
+                            0
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 245626872374,
+                    "stock": 0,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false
+                },
+                {
+                    "item_id": 24523888293,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "xanh,M",
+                    "promotion_id": 0,
+                    "price": 3700000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 55,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 55,
+                    "extinfo": {
+                        "tier_index": [
+                            0,
+                            3
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 245626872375,
+                    "stock": 55,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false
+                },
+                {
+                    "item_id": 24523888293,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "tím,L",
+                    "promotion_id": 0,
+                    "price": 4430000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 77,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 77,
+                    "extinfo": {
+                        "tier_index": [
+                            2,
+                            2
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 245626872380,
+                    "stock": 77,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false
+                },
+                {
+                    "item_id": 24523888293,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "xanh,X",
+                    "promotion_id": 0,
+                    "price": 3500000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 3,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 3,
+                    "extinfo": {
+                        "tier_index": [
+                            0,
+                            1
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 245626872387,
+                    "stock": 3,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false
+                },
+                {
+                    "item_id": 24523888293,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "vàng,X",
+                    "promotion_id": 0,
+                    "price": 5500000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 8,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 8,
+                    "extinfo": {
+                        "tier_index": [
+                            3,
+                            1
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 245626872373,
+                    "stock": 8,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false
+                },
+                {
+                    "item_id": 24523888293,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "vàng,S",
+                    "promotion_id": 0,
+                    "price": 7700000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 77,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 77,
+                    "extinfo": {
+                        "tier_index": [
+                            3,
+                            0
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 245626872377,
+                    "stock": 77,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false
+                },
+                {
+                    "item_id": 24523888293,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "đỏ,L",
+                    "promotion_id": 0,
+                    "price": 3400000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 0,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 0,
+                    "extinfo": {
+                        "tier_index": [
+                            1,
+                            2
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 245626872378,
+                    "stock": 0,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false
+                },
+                {
+                    "item_id": 24523888293,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "tím,S",
+                    "promotion_id": 0,
+                    "price": 2300000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 1,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 1,
+                    "extinfo": {
+                        "tier_index": [
+                            2,
+                            0
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 245626872379,
+                    "stock": 1,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false
+                },
+                {
+                    "item_id": 24523888293,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "đỏ,S",
+                    "promotion_id": 0,
+                    "price": 3800000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 6,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 6,
+                    "extinfo": {
+                        "tier_index": [
+                            1,
+                            0
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 245626872384,
+                    "stock": 6,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false
+                },
+                {
+                    "item_id": 24523888293,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "đỏ,X",
+                    "promotion_id": 0,
+                    "price": 3900000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 4,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 4,
+                    "extinfo": {
+                        "tier_index": [
+                            1,
+                            1
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 245626872385,
+                    "stock": 4,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false
+                },
+                {
+                    "item_id": 24523888293,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "vàng,M",
+                    "promotion_id": 0,
+                    "price": 6666600000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 8,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 8,
+                    "extinfo": {
+                        "tier_index": [
+                            3,
+                            3
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 245626872388,
+                    "stock": 8,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false
+                },
+                {
+                    "item_id": 24523888293,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "xanh,L",
+                    "promotion_id": 0,
+                    "price": 3600000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 4,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 4,
+                    "extinfo": {
+                        "tier_index": [
+                            0,
+                            2
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 245626872383,
+                    "stock": 4,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false
+                },
+                {
+                    "item_id": 24523888293,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "vàng,L",
+                    "promotion_id": 0,
+                    "price": 7777700000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 99,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 99,
+                    "extinfo": {
+                        "tier_index": [
+                            3,
+                            2
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 245626872382,
+                    "stock": 99,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false
+                },
+                {
+                    "item_id": 24523888293,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "đỏ,M",
+                    "promotion_id": 0,
+                    "price": 5400000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 1,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 1,
+                    "extinfo": {
+                        "tier_index": [
+                            1,
+                            3
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 245626872386,
+                    "stock": 1,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false
+                },
+                {
+                    "item_id": 24523888293,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "tím,M",
+                    "promotion_id": 0,
+                    "price": 4560000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 6,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 6,
+                    "extinfo": {
+                        "tier_index": [
+                            2,
+                            3
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 245626872376,
+                    "stock": 6,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false
+                },
+                {
+                    "item_id": 24523888293,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "tím,X",
+                    "promotion_id": 0,
+                    "price": 5300000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 2,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 2,
+                    "extinfo": {
+                        "tier_index": [
+                            2,
+                            1
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 245626872381,
+                    "stock": 2,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 0,
+                    "is_lowest_price_at_shopee": false
+                }
+            ],
+            "tier_variations": [
+                {
+                    "name": "màu sắc",
+                    "options": [
+                        "xanh",
+                        "đỏ",
+                        "tím",
+                        "vàng"
+                    ],
+                    "images": null,
+                    "properties": null,
+                    "type": 0,
+                    "summed_stocks": null
+                },
+                {
+                    "name": "size",
+                    "options": [
+                        "S",
+                        "X",
+                        "L",
+                        "M"
+                    ],
+                    "images": null,
+                    "properties": null,
+                    "type": 0,
+                    "summed_stocks": null
+                }
+            ],
+            "size_chart": "",
+            "size_chart_info": null,
+            "welcome_package_type": 0,
+            "is_free_gift": false,
+            "deep_discount": null,
+            "is_low_price_eligible": null,
+            "bundle_deal_info": null,
+            "add_on_deal_info": null,
+            "shipping_icon_type": 0,
+            "badge_icon_type": 0,
+            "spl_info": {
+                "installment_info": {
+                    "installment_plans": [],
+                    "max_installment_plan": null,
+                    "panel_status": 0,
+                    "recommended_installment_plan": null,
+                    "interest_rate_discounted_type": 0
+                },
+                "user_credit_info": {
+                    "user_status": 1,
+                    "display_text": "Mua trước trả sau",
+                    "display_color": "#ee4d2d",
+                    "partners_link": "https://uc-h5.scredit.vn/landing/spl",
+                    "tracking_info": "{\"activation_status\":\"activate_now\"}"
+                },
+                "channel_id": 5002601,
+                "show_spl": true,
+                "show_spl_lite": null
+            },
+            "estimated_days": 2,
+            "is_pre_order": false,
+            "is_free_shipping": false,
+            "overall_purchase_limit": null,
+            "min_purchase_limit": 0,
+            "is_hide_stock": false,
+            "stock": 351,
+            "normal_stock": 351,
+            "current_promotion_reserved_stock": 0,
+            "can_use_wholesale": false,
+            "wholesale_tier_list": [],
+            "price": 2300000000,
+            "raw_discount": 0,
+            "hidden_price_display": null,
+            "price_min": 2300000000,
+            "price_max": 7777700000,
+            "price_before_discount": 0,
+            "price_min_before_discount": -1,
+            "price_max_before_discount": -1,
+            "other_stock": 351,
+            "discount_stock": 0,
+            "current_promotion_has_reserve_stock": false,
+            "complaint_policy": null,
+            "show_recycling_info": false,
+            "should_show_amp_tag": true
+        },
+        "account": {
+            "user_id": 66054020,
+            "is_new_user": false,
+            "default_address": {
+                "state": "Tuyên Quang",
+                "city": "Huyện Yên Sơn",
+                "district": "Xã Phú Thịnh",
+                "town": "",
+                "zip_code": null,
+                "address": null,
+                "region": null
+            },
+            "adult_consent": 1711196437,
+            "birth_timestamp": 992624400
+        },
+        "product_images": {
+            "video": null,
+            "images": [
+                "vn-11134207-7r98o-lu62qv5hx9gf63"
+            ],
+            "first_tier_variations": [],
+            "sorted_variation_image_index_list": [],
+            "overlay": {
+                "type": 0,
+                "image": "vn-50009109-fac1952b051897f9aaec3a41203e1fcb",
+                "preview_end_time": null,
+                "is_pre_order": null,
+                "description": ""
+            },
+            "makeup_preview": null,
+            "abnormal_status": "",
+            "promotion_images": [],
+            "long_images": null,
+            "shopee_video_info_list": [],
+            "shopee_video_rcmd_info": null,
+            "shopee_video_req_id": null,
+            "skincam": null,
+            "pdp_top_info_list": null,
+            "has_long_image": null
+        },
+        "product_price": {
+            "discount": null,
+            "installment_info": null,
+            "spl_installment_info": null,
+            "pack_size": "",
+            "hide_price": false,
+            "price": {
+                "single_value": -1,
+                "range_min": 2300000000,
+                "range_max": 7777700000,
+                "price_mask": null
+            },
+            "price_before_discount": null,
+            "presale_price": null,
+            "lowest_past_price": null,
+            "labels": [
+                {
+                    "type": 0,
+                    "text": "Miễn phí trả hàng",
+                    "color": "#26AA99",
+                    "display": "free_return",
+                    "exclusive_price": null,
+                    "promotion_id": null
+                }
+            ],
+            "hide_discount": false,
+            "discount_text": null
+        },
+        "flash_sale": null,
+        "flash_sale_preview": null,
+        "deep_discount": null,
+        "exclusive_price": null,
+        "exclusive_price_cta": null,
+        "product_meta": {
+            "show_lowest_price_guarantee": false,
+            "show_original_guarantee": false,
+            "show_best_price_guarantee": false,
+            "show_official_shop_label_in_title": false,
+            "show_shopee_verified_label": false,
+            "show_lowest_installment_guarantee": false
+        },
+        "product_review": {
+            "rating_star": 0,
+            "rating_count": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "total_rating_count": 0,
+            "historical_sold": 0,
+            "global_sold": 0,
+            "liked": false,
+            "liked_count": 0,
+            "cmt_count": 0,
+            "should_move_ratings_above": null,
+            "review_rcmd_exp_group": null,
+            "display_global_sold": false
+        },
+        "promotion_info": {
+            "spl": null,
+            "spl_lite": null,
+            "installment": null,
+            "wholesale": null,
+            "insurance": null,
+            "item_installment_eligibility": {
+                "is_cc_installment_payment_eligible": false,
+                "is_non_cc_installment_payment_eligible": false
+            }
+        },
+        "age_gate": {
+            "kyc": null
+        },
+        "shipping_meta": null,
+        "product_shipping": {
+            "free_shipping": {
+                "min_spend": null,
+                "has_fss": false
+            },
+            "shipping_fee_info": {
+                "ship_from_location": "Hà Nội",
+                "price": {
+                    "single_value": 0,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "shipping_icon_type": 0,
+                "warning": null
+            },
+            "show_shipping_to": true,
+            "ungrouped_channel_infos": [
+                {
+                    "channel_id": 5001,
+                    "name": "Nhanh",
+                    "price": {
+                        "single_value": 0,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": {
+                        "single_value": 3280000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1713521598,
+                        "estimated_delivery_date_to": 1713857970,
+                        "estimated_delivery_time_min": 2,
+                        "estimated_delivery_time_max": 6,
+                        "delay_message": null
+                    },
+                    "channel_promotion_infos": [
+                        {
+                            "rule_id": 178586435256320,
+                            "type": 1,
+                            "display_mode": null,
+                            "discount_off": null,
+                            "min_spend": {
+                                "single_value": 0,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": null
+                            },
+                            "cap": null
+                        },
+                        {
+                            "rule_id": 98621,
+                            "type": 1,
+                            "display_mode": null,
+                            "discount_off": null,
+                            "min_spend": {
+                                "single_value": 2500000000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": null
+                            },
+                            "cap": null
+                        }
+                    ],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null,
+                    "service_type_info": "standard",
+                    "is_integrated_channel": true,
+                    "late_delivery_compensation": {
+                        "type": 1,
+                        "amount": 1000000000,
+                        "is_guaranteed_edt": true
+                    },
+                    "is_sst_included": false,
+                    "display_text": {
+                        "late_delivery_compensation": {
+                            "text": "Nhận Voucher trị giá {compensation_amount} nếu đơn hàng được giao đến bạn trễ hơn thời gian dự kiến",
+                            "gdt_max": null,
+                            "compensation_amount": {
+                                "value": 1000000000
+                            }
+                        }
+                    }
+                }
+            ],
+            "grouped_channel_infos_by_service_type": [],
+            "also_available_channel_name": null,
+            "pre_selected_shipping_channel": {
+                "channel_id": 5001,
+                "name": "Nhanh",
+                "price": {
+                    "single_value": 0,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "price_before_discount": {
+                    "single_value": 3280000000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "channel_delivery_info": {
+                    "has_edt": true,
+                    "display_mode": "edt_by_date",
+                    "estimated_delivery_date_from": 1713521598,
+                    "estimated_delivery_date_to": 1713857970,
+                    "estimated_delivery_time_min": 2,
+                    "estimated_delivery_time_max": 6,
+                    "delay_message": ""
+                },
+                "channel_promotion_infos": [
+                    {
+                        "rule_id": 178586435256320,
+                        "type": 1,
+                        "display_mode": 0,
+                        "discount_off": 0,
+                        "min_spend": {
+                            "single_value": 0,
+                            "range_min": -1,
+                            "range_max": -1,
+                            "price_mask": ""
+                        },
+                        "cap": 0
+                    },
+                    {
+                        "rule_id": 98621,
+                        "type": 1,
+                        "display_mode": 0,
+                        "discount_off": 0,
+                        "min_spend": {
+                            "single_value": 2500000000,
+                            "range_min": -1,
+                            "range_max": -1,
+                            "price_mask": ""
+                        },
+                        "cap": 0
+                    }
+                ],
+                "warning": {
+                    "type": "",
+                    "warning_msg": ""
+                },
+                "shipping_icon_type": null,
+                "lowest_bpsf_promotion_rule": null,
+                "service_type_info": "standard",
+                "is_integrated_channel": true,
+                "late_delivery_compensation": {
+                    "type": 1,
+                    "amount": 1000000000,
+                    "is_guaranteed_edt": true
+                },
+                "is_sst_included": false,
+                "display_text": {
+                    "late_delivery_compensation": {
+                        "text": "Nhận Voucher trị giá {compensation_amount} nếu đơn hàng được giao đến bạn trễ hơn thời gian dự kiến",
+                        "gdt_max": null,
+                        "compensation_amount": {
+                            "value": 1000000000
+                        }
+                    }
+                }
+            },
+            "show_grouped_channel_first": false,
+            "is_item_with_price_range": true,
+            "also_available_channel_icon_type": null,
+            "pre_order_text": "",
+            "selected_late_delivery_compensation_for_drawer": null
+        },
+        "shop_vouchers": [],
+        "free_return": null,
+        "coin_info": {
+            "spend_cash_unit": 100000,
+            "coin_earn_items": [],
+            "coin_earn_label": null
+        },
+        "product_attributes": {
+            "attrs": [
+                {
+                    "name": "Phong cách",
+                    "value": "Thể thao, Hàn Quốc",
+                    "id": 100169,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 1497,
+                    "url": null
+                },
+                {
+                    "name": "Chiều dài áo",
+                    "value": "Dài",
+                    "id": 100170,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 1503,
+                    "url": null
+                },
+                {
+                    "name": "Xuất xứ",
+                    "value": "Trung Quốc",
+                    "id": 100037,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 35,
+                    "url": null
+                },
+                {
+                    "name": "Chiều dài tay áo",
+                    "value": "Dài tay",
+                    "id": 100168,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 1480,
+                    "url": null
+                },
+                {
+                    "name": "Dáng kiểu áo",
+                    "value": "Cơ bắp",
+                    "id": 100179,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 1569,
+                    "url": null
+                },
+                {
+                    "name": "Chất liệu",
+                    "value": "Cotton, Lông vũ, Nỉ, Nỉ mỏng, Nylon",
+                    "id": 100134,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 1149,
+                    "url": null
+                },
+                {
+                    "name": "Mẫu",
+                    "value": "In, vỏ cây",
+                    "id": 100162,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 1486,
+                    "url": null
+                },
+                {
+                    "name": "Mùa",
+                    "value": "Mùa hè",
+                    "id": 100163,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 1462,
+                    "url": null
+                },
+                {
+                    "name": "Cổ áo",
+                    "value": "Cổ vuông",
+                    "id": 100154,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 0,
+                    "url": null
+                },
+                {
+                    "name": "label_stock",
+                    "value": "351",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null
+                },
+                {
+                    "name": "label_ship_from",
+                    "value": "Hà Nội",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null
+                }
+            ],
+            "categories": [
+                {
+                    "catid": 11035567,
+                    "display_name": "Thời Trang Nam",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11035592,
+                    "display_name": "Áo",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11035595,
+                    "display_name": "Áo Thun",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ]
+        },
+        "shop_detailed": {
+            "shopid": 66052563,
+            "userid": 66054020,
+            "last_active_time": 1713250827,
+            "vacation": true,
+            "place": "Huyện Yên Sơn, Tuyên Quang",
+            "account": {
+                "portrait": "e2667f020797c11a7858324cfea632f5",
+                "username": "hung_silver_tq",
+                "status": 1
+            },
+            "is_shopee_verified": false,
+            "is_preferred_plus_seller": false,
+            "is_official_shop": false,
+            "shop_location": "Tuyên Quang",
+            "item_count": 2,
+            "rating_star": null,
+            "response_rate": null,
+            "session_info": null,
+            "name": "Hungsilvershop",
+            "ctime": 1524285791,
+            "response_time": 0,
+            "follower_count": 13,
+            "show_official_shop_label": false,
+            "rating_bad": 0,
+            "rating_good": 0,
+            "rating_normal": 0,
+            "session_infos": null,
+            "status": 1,
+            "is_individual_seller": null,
+            "is_mart": false,
+            "favorite_shop_info": null,
+            "is_3pf": false,
+            "sold_total": 0,
+            "is_shopee_choice": false
+        },
+        "age_gate_control": null,
+        "abnormal_popup": null,
+        "return_on_spot": null,
+        "display_sections": {
+            "add_on_deal": null,
+            "bundle_deal": null,
+            "exclusive_price_label": null,
+            "free_return": {
+                "title": "Trả hàng 15 ngày",
+                "message": "Đổi ý miễn phí"
+            },
+            "coin": null,
+            "wholesale": null
+        },
+        "ineligible_ep": null,
+        "tax_disclaimer": null,
+        "alcohol_disclaimer": null,
+        "design_control": {
+            "use_new_revamp_first_screen": null,
+            "display_on_time_delivery_guarantee": true,
+            "disable_price_with_variation": null
+        },
+        "shopee_free_return": {
+            "free_return_type": 1
+        }
+    }
+}
